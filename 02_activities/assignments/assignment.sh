@@ -59,4 +59,4 @@ find data/processed -type f -printf "%f\n" > data/inventory.txt
 
 ###########################################
 
-echo "Project setup is complete!"
+echo "Project setup is complete!!"
